@@ -1,0 +1,19 @@
+
+
+.cont-texto {
+  max-width: 1200px;
+  background-image: #ffffff ;
+}
+
+.cont-texto {
+  margin: 0 auto;
+  margin-bottom: 80px;
+  margin-top: 60px;
+  padding: 30px 40px;
+
+}
+
+.cont-texto, h1 {
+ margin-bottom:30px;
+}
+
