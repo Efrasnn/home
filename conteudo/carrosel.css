@@ -3,7 +3,7 @@
 }
 
 .carousel-inner {
-  padding: 40px 40px;
+  padding-bottom: 15px;
   background-color: #ede4e4;
   border-radius: 4px;
 }
@@ -12,8 +12,11 @@
   color: #0a0a0a;
   padding: 30px 20px;
   display: block;
+  
 
 }
+
+
 
 .carousel {
    display: grid;
