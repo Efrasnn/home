@@ -2,19 +2,24 @@
   margin-bottom: 80px;
 }
 
-.carousel-inner {
-  padding-bottom: 15px;
-  background-color: #ede4e4;
-  border-radius: 4px;
-}
 
-.carousel,  span {
+.carousel  .conteudo-caroseul {
   color: #0a0a0a;
   padding: 30px 20px;
   display: block;
   
 }
 
+.conteudo-caroseul p {
+  line-height: 1.5;
+}
+
+
+.carousel-inner {
+  padding-bottom: 15px;
+  background-color: #ede4e4;
+  border-radius: 4px;
+}
 
 
 .carousel {
